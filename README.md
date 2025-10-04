@@ -34,6 +34,7 @@ me n mi homelab addiction &lt;3
 ---
 
 ## 4th-gen i5 (16 GB) — **Media & Apps** *(2× fast HDD/SSD + separate CVAT disk)*
+Specs: 4 x Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz + 16GB DDR3
 
 * **Jellyfin** (GPU/Quick Sync)
 
@@ -66,7 +67,7 @@ me n mi homelab addiction &lt;3
 ---
 
 ## 3rd-gen i5 (8 GB) — **Ingest & Storage** *(1× fast + 1× slow drive)*
-
+Specs: 4 x Intel(R) Core(TM) i5-3470T CPU @ 2.90GHz + 16GB DDR3
 * **Fast drive (“staging”)**
 
   * **qBittorrent + Radarr** (through Surfshark/WireGuard)
