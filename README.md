@@ -89,7 +89,7 @@ Specs: 4 x Intel(R) Core(TM) i5-3470T CPU @ 2.90GHz + 16GB DDR3
   * Cleanup scripts (auto-prune torrents, tidy orphan files)
   * Telegram notifier (shares same bot) for ingest errors
 
-> **Ports (LAN)**: 8080 (qBit UI), 7878 (Radarr), 8787 (Readarr), 9696 (Prowlarr), 445/139 (SMB), custom for yt-dlp API
+> **Ports (LAN)**: 8080 (qBit UI), 7878 (Radarr), 9696 (Prowlarr), 445/139 (SMB), custom for yt-dlp API
 
 ---
 
